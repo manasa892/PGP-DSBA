@@ -15,3 +15,4 @@ nums = [4, 8, 15, 16, 23, 42]
 i = nums
 add_ten = [i + 10 for i in nums]
 print(add_ten)
+
