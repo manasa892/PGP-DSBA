@@ -1,1 +1,4 @@
-
+#Create a new list named double_nums by multplying each number in nums by two 
+var1 = [4, 8, 15, 16, 23, 42]
+doublenums = [var2 * 2 for var2 in var1]
+print(doublenums)
